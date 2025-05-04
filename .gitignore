@@ -1,0 +1,5 @@
+.env
+.vscode/
+docs/swagger.json
+docs/swagger.yaml
+*.drawio~*
